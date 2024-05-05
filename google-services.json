@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9436484115",
+    "project_id": "swift-services-7e11a",
+    "storage_bucket": "swift-services-7e11a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9436484115:android:67bbff9ce61176176165e6",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNhnQSXFvhzXAYECnl6GG3fE7wtYsKwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
